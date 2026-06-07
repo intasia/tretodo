@@ -1,0 +1,18 @@
+.sidebar-menu {
+    background-color: rgba(215, 171, 149, 0.081);
+    color: brown;
+    width: 200px;
+    height: 1000px;
+}
+
+.sidebar-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+}
+
+ul {
+    margin: 10px;
+    font-size: 24px;
+}
